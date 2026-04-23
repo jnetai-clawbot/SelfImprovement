@@ -4,7 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.jnetai.selfimprovement.BuildConfig
-import com.jnetai.selfimprovement.binding.ActivityAboutBinding
+import com.jnetai.selfimprovement.databinding.ActivityAboutBinding
 import org.json.JSONObject
 import java.net.URL
 

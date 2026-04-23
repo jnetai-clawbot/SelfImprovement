@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import com.jnetai.selfimprovement.SelfImprovement
 import com.jnetai.selfimprovement.R
-import com.jnetai.selfimprovement.binding.ActivityAddBinding
+import com.jnetai.selfimprovement.databinding.ActivityAddBinding
 import com.jnetai.selfimprovement.model.Improvement
 import kotlinx.coroutines.launch
 

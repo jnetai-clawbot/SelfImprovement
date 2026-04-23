@@ -9,7 +9,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.jnetai.selfimprovement.SelfImprovement
 import com.jnetai.selfimprovement.R
-import com.jnetai.selfimprovement.binding.ActivityMainBinding
+import com.jnetai.selfimprovement.databinding.ActivityMainBinding
 import com.jnetai.selfimprovement.model.Improvement
 import kotlinx.coroutines.launch
 

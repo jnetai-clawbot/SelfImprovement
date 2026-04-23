@@ -4,7 +4,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import com.jnetai.selfimprovement.SelfImprovement
-import com.jnetai.selfimprovement.binding.ActivityDetailBinding
+import com.jnetai.selfimprovement.databinding.ActivityDetailBinding
 import com.jnetai.selfimprovement.model.Improvement
 import kotlinx.coroutines.launch
 
