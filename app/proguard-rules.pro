@@ -1,0 +1,4 @@
+-keep class com.jnetai.selfimprovement.data.** { *; }
+-keep class com.jnetai.selfimprovement.model.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
